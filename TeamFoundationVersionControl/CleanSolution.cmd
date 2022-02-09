@@ -1,5 +1,5 @@
-cd C:\i22732\Dev\R7\QAFunctional
+cd C:\Users\Kalyan\Dev\ProductCode\TestFramework
 
-msbuild TouchstoneAutomation.sln /t:Clean
+msbuild Automation.sln /t:Clean
 
 pause
